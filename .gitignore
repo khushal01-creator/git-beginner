@@ -1,0 +1,4 @@
+.env*
+build/
+BD.py
+FBD.py
